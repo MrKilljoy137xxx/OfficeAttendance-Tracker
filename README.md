@@ -56,12 +56,15 @@ I was required to consider the application of deliberate design principles befor
 
 Two distinct categories of users have been considered through the use of user personas: one who is a SCS and another who is a typical DfE colleague.  The user personas have been used to identify the specific accessibility requirements and pain points of both colleagues.
 
-![User Personas SCS](https://www.figma.com/proto/iaj4AJIUgTg15eBvc4do6d/User-Personas-for-OA-tracker?node-id=0-1&t=ccAXtOIAzUzw7cRJ-1)
+![User Personas SCS](assets/SCS.png)
+
+![User_Persona_DfE](assets/dfe_colleague.png)
 
 The design process will be facilitated by the creation of two empathy maps that pertain to both colleagues.  An **empathy map** is a collaborative visualisation tool that is employed to express the thoughts, emotions, words, and actions of a user in relation to the Office Attendance Tracker product.  This will facilitate the development of a more profound shared comprehension of their users among myself and my team.
 
-![Empaythy Map SCS](https://www.figma.com/board/ZZdOISI2hRFT8mHFg9zs2e/SCS-Empathy-Map-for-OA-tracker?node-id=0-1&t=RmO21JRNYB0nzgtL-1)
-![Empathy Map DfE](https://www.figma.com/board/tDrFhzsa9IIcTAC0LPU9ux/DfE-Colleague-Empathy-Map-for-OA-tracker?node-id=0-1&t=SZVWhQvI9AqKlWwY-1)
+![Empaythy Map SCS](assets/scs_empathy_map.png)
+
+![Empathy Map DfE](assets/dfe_empathy_map.png)
 
 ## UI Mockups
 
