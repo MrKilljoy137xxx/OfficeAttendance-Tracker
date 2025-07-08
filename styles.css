@@ -61,3 +61,30 @@ body {
     padding: 4px;
     box-sizing: border-box;
 }
+
+/* Style for the second question */
+.second-question-form label {
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    color: #183860;
+    margin-top: 32px;
+    display: block;
+}
+
+/* Style for the second question input */
+.days-checkboxes label {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: #183860;
+    margin-bottom: 4px;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+.days-checkboxes input[type="checkbox"] {
+    width: 25px;
+    height: 25px;
+    accent-color: #183860; 
+    margin-right: 6px;
+    vertical-align: middle;
+}
