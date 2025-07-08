@@ -35,3 +35,66 @@ body {
     margin-bottom: 10px;
     display: block;
 }
+
+/* Style for the week beginning date input */
+.week-begin-form input[type="date"] {
+    width: 250px;           /* Increase width */
+    height: 40px;           /* Increase height */
+    font-size: 1.1rem;      /* Larger text */
+    padding: 8px 12px;
+    border: 2px solid #183860;
+    border-radius: 6px;
+    background-color: #f8f9fa;
+    color: #183860;
+    box-sizing: border-box;
+}
+
+/* Style the calendar icon for WebKit browsers (Chrome, Safari, Edge) */
+.week-begin-form input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(32%) sepia(80%) saturate(600%) hue-rotate(180deg);
+    cursor: pointer;
+    height: 28px;
+    width: 28px;
+    border: 2px  #183860;
+    border-radius: 6px;
+    background-color: #f8f9fa;
+    padding: 4px;
+    box-sizing: border-box;
+}
+
+/* Style for the second question */
+.second-question-form label {
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    color: #183860;
+    margin-top: 32px;
+    display: block;
+}
+
+/* Style for the second question input */
+.days-checkboxes label {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: #183860;
+    margin-bottom: 4px;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+.days-checkboxes input[type="checkbox"] {
+    width: 25px;
+    height: 25px;
+    accent-color: #183860; 
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+
+/* Style for the third question */
+.third-question-form label {
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    color: #183860;
+    margin-top: 32px;
+    display: block;
+}
