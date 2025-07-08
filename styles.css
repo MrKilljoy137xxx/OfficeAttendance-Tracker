@@ -8,7 +8,7 @@ body {
 
 /* Style for the logo in the top left corner (inside header) */
 .logo {
-    width: 150px; /* Adjust size as needed */
+    width: 150px;
     height: auto;
     margin-right: 20px;
     position: static;
@@ -25,4 +25,13 @@ body {
     font-size: 2.2rem;
     color: #183860;
     margin: 0;
+}
+
+/* Style for the form that asks for the week beginning date */
+.week-begin-form label {
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    color: #183860;
+    margin-bottom: 10px;
+    display: block;
 }
