@@ -89,18 +89,14 @@ This is how I applied Agile to my workflow:
 
 ## Structure
 
+![Kanban Board P1](assets/kanban.png)
+![Kanban Board P2](assets/kanban.png)
 
 ## Ticket Labels
 
 ![Ticket Labels](assets/ticket_labels.png)
 
 ***Figure x**: This displays the labels that were employed to organise the tickets.*
-
-## Milestones
-
-
-## Risk Assessment and Mitigation
-
 
 </details>
 
