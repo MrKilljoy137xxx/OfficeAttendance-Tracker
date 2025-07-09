@@ -1,7 +1,8 @@
 // Show notification on submit
 document.querySelector('.form-buttons button[type="submit"]').addEventListener('click', function(event) {
-    event.preventDefault(); // Prevent actual form submission (remove this if you want to submit for real)
+    event.preventDefault(); // Prevent actual form submission (for now)
     updateOfficeDaysCount(); // Ensure the office days card is updated on submit
+    updateAttendance();      // Ensure attendance and target box are updated on submit
     alert('Your form has been submitted to HR.');
     // If you want the form to actually submit after the alert, remove the event.preventDefault() line above.
 });
@@ -91,6 +92,17 @@ function updateAttendance() {
     const totalDays = 5; // Static for now
     const attendancePercent = totalDays > 0 ? Math.round((officeDays / totalDays) * 100) : 0;
     document.getElementById('attendance_calc').textContent = attendancePercent + '%';
+
+    // Target logic
+    const targetBox = document.getElementById('targetBox');
+    const targetStatus = document.getElementById('targetStatus');
+    if (attendancePercent >= 60) {
+        targetBox.classList.remove('off');
+        targetStatus.textContent = 'On target';
+    } else {
+        targetBox.classList.add('off');
+        targetStatus.textContent = 'Off target';
+    }
 }
 
 // Update attendance whenever office days change
