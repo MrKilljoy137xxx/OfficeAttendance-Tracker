@@ -90,11 +90,22 @@ This is how I applied Agile to my workflow:
 ## Structure
 
 ![Kanban Board P1](assets/kanban_p1.png)
-![Kanban Board P2](assets/kanban_p2.png)
 
 ***Figure x**: The Project Kanban board as it is presented in GitHub Projects.  This enabled me to coordinate the tickets (GitHub) across each stage of the development process.*
 
+I have utilised a Kanban board through GitHub Projects and have compiled a list of all available assignments for Sprint 1.1.  This facilitated the visual organisation and management of all my responsibilities during the software development lifecycle.  The board was organised into the following columns: **Backlog**, **Ready**, **In progress**, **In review**, **Developed**, **Testing**, and **Completed**.  GitHub issues were used to represent each task, feature, and bug, which were relocated across these columns as my work progressed.
 
+The kanban has helped by providing: 
+
+* **Visual Clarity-** This has enabled me and my team to evaluate the priorities and obtain a real-time, comprehensive understanding of the project's status.
+* **Colloboration-** This has facilitated improved communication and coordination among my team members, as I am able to observe the projects we are all working on.
+* **Continuous Delivery-** This has facilitated the iterative, Agile approach that was previously mentioned by enabling the addition and prioritisation of new tasks at any given moment.
+
+I worked on this project in sprints, which are a brief, predetermined period of time in agile project management. This is where I was able to devise a specific set of tasks and features that are planned, developed, and reviewed. The sprint has enabled me to focus on the manageable set of tasks required to develop the office attendance tracker, thereby reducing overwhelm and enhancing productivity. Additionally, I will have the opportunity to evaluate the successes and failures of each iteration, thereby enhancing the quality of my product and process over time.
+
+(Discuss about branches)
+
+(Discuss what happens after sprint review)
 
 ## Ticket Labels
 
