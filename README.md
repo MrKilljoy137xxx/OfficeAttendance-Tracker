@@ -75,16 +75,13 @@ The design process will be facilitated by the creation of two empathy maps that 
 
 <details closed><summary>6. Project Planning📝</summary>
 
-## Project Objectives
+## Methodology
 
 
-## Planning Methodology
+## Structure
 
 
-## Project Timeline
-
-
-## Tools and Technologies
+## Ticket Labels
 
 
 
