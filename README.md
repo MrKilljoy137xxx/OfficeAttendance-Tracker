@@ -83,7 +83,7 @@ The design process will be facilitated by the creation of two empathy maps that 
 
 ## Ticket Labels
 
-
+![Ticket Labels](assets/ticket_labels.png)
 
 
 ## Milestones
