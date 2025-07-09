@@ -1,6 +1,7 @@
 // Show notification on submit
 document.querySelector('.form-buttons button[type="submit"]').addEventListener('click', function(event) {
     event.preventDefault(); // Prevent actual form submission (remove this if you want to submit for real)
+    updateOfficeDaysCount(); // Ensure the office days card is updated on submit
     alert('Your form has been submitted to HR.');
     // If you want the form to actually submit after the alert, remove the event.preventDefault() line above.
 });
@@ -44,3 +45,17 @@ document.getElementById('exportCsvBtn').addEventListener('click', function() {
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
 });
+
+// Number of days attended
+function updateOfficeDaysCount() {
+    const checkedDays = document.querySelectorAll('input[name="days"]:checked').length;
+    document.getElementById('officeDaysCount').textContent = checkedDays;
+}
+
+// Attach the event listener to all day checkboxes
+document.querySelectorAll('input[name="days"]').forEach(cb => {
+    cb.addEventListener('change', updateOfficeDaysCount);
+});
+
+// Initialize the count on page load
+updateOfficeDaysCount();
