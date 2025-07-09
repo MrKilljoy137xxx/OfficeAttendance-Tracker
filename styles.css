@@ -88,3 +88,13 @@ body {
     margin-right: 6px;
     vertical-align: middle;
 }
+
+
+/* Style for the third question */
+.third-question-form label {
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    color: #183860;
+    margin-top: 32px;
+    display: block;
+}
