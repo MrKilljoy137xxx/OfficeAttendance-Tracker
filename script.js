@@ -59,3 +59,6 @@ document.querySelectorAll('input[name="days"]').forEach(cb => {
 
 // Initialize the count on page load
 updateOfficeDaysCount();
+
+// Total number of working days
+document.getElementById('totalDaysCount').textContent = 5;
