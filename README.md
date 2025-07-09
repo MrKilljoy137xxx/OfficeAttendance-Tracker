@@ -77,6 +77,15 @@ The design process will be facilitated by the creation of two empathy maps that 
 
 ## Methodology
 
+I utilised the Agile methodology to facilitate the development process.  This method of software development is iterative and adaptable, with a focus on the rapid incremental delivery of functional software, customer feedback, and collaboration.  Agile has enabled me to divide the project into smaller, more manageable units known as sprints, rather than planning the entire project in advance.  This will enable me to perpetually enhance the current tracker through the sprint cycles.
+
+This is how I applied Agile to my workflow: 
+
+* **Iterative Development-** The attendance tracker was constructed in incremental stages, with each feature (such as data cards, export, and target box) being added and enhanced in response to user feedback.
+
+* **Continuous Improvement-** I conducted routine evaluations of the strategies that were effective and those that could be improved, implementing modifications as I worked.
+
+* **Task Tracking-** I separated my work into manageable tasks (tickets), monitored my progress, and prioritised the most critical tasks by utilising GitHub issues and labels.  I will elaborate on this matter in the structure section.
 
 ## Structure
 
@@ -85,6 +94,7 @@ The design process will be facilitated by the creation of two empathy maps that 
 
 ![Ticket Labels](assets/ticket_labels.png)
 
+***Figure x**: This displays the labels that were employed to organise the tickets.*
 
 ## Milestones
 
