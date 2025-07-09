@@ -256,3 +256,23 @@ body {
     font-weight: bold;
     color: #183860; /* Office Days number in white */
 }
+
+/* Style for the target box */
+.target-box {
+    width: 100%;
+    background: rgba(0,128,0);
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    padding: 24px 0;
+    font-size: 1.5rem;
+    border-radius: 16px 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(24,56,96,0.08);
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s;
+}
+.target-box.off {
+    background: #b71c1c;
+}
