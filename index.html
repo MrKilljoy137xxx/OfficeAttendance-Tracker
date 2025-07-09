@@ -29,8 +29,26 @@
         </form>
         <form class="third-question-form">
             <label for="attendanceReason"><strong>What is the reason for attending the office?</strong></label>
+            <input type="text" id="attendanceReason" name="attendanceReason" placeholder="Enter your reason... " required>
         </form>
+        <form class="fourth-question-form">
+            <label for="accessibilityReason"><strong>Will you require any accessibility acccomdations while on-site:</strong></label>
+            <input type="text" id="accessibilityReason" name="accessibilityReason" placeholder="Enter your needs..." required>
+        </form>
+        <form class="fifth-question-form">
+            <label for="otherConfirmation "><strong>Would you prefer to be notified of others attending on the same days?*</strong></label>
+            <div class="radio-options">
+                <label><input type="radio" id="otherConfirmationYes" name="otherConfirmation" value="Yes" required> Yes</label>
+                <label><input type="radio" id="otherConfirmationNo" name="otherConfirmation" value="No"> No</label>
+            </div>
+        </form>
+        <div class="form-buttons">
+            <button type="submit" form="week-begin-form">Submit</button>
+            <button type="reset" form="week-begin-form">Reset</button>
+            <button type="button" id="exportCsvBtn">Export to CSV</button>
+        </div>
         <!-- Main content for attendance tracker will go here -->
     </main>
+<script src="script.js"></script>
 </body>
 </html>
