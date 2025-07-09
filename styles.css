@@ -167,3 +167,42 @@ body {
     margin-right: 18px;
     vertical-align: middle;
 }
+
+/* Style for submit, reset and export buttons */
+.form-buttons {
+    margin-top: 32px;
+    display: flex;
+    gap: 16px;
+}
+
+.form-buttons button[type="submit"] {
+    background-color: #28a745; /* Green */
+    color: #fff;
+    border: none;
+}
+
+.form-buttons button[type="reset"] {
+    background-color: #dc3545; /* Red */
+    color: #fff;
+    border: none;
+}
+
+.form-buttons button#exportCsvBtn {
+    background-color: #fd7e14; /* Orange */
+    color: #fff;
+    border: none;
+}
+
+.form-buttons button {
+    font-family: Arial, sans-serif;
+    font-size: 1.1rem;
+    padding: 10px 24px;
+    border-radius: 6px;
+    margin-right: 12px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.form-buttons button:hover {
+    opacity: 0.85;
+}
