@@ -115,3 +115,12 @@ body {
     text-align: left;
     vertical-align: top;
 }
+
+/* Style for the fourth question */
+.fourth-question-form label {
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    color: #183860;
+    margin-top: 32px;
+    display: block;
+}
