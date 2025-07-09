@@ -150,3 +150,20 @@ body {
     margin-top: 32px;
     display: block;
 }
+
+/* Style for radio buttons */
+.radio-options input[type="radio"] {
+    width: 22px;
+    height: 22px;
+    accent-color: #183860;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.radio-options label {
+    font-family: Arial, sans-serif;
+    font-size: 1.1rem;
+    color: #183860;
+    margin-right: 18px;
+    vertical-align: middle;
+}
