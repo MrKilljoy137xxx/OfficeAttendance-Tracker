@@ -89,8 +89,12 @@ This is how I applied Agile to my workflow:
 
 ## Structure
 
-![Kanban Board P1](assets/kanban.png)
-![Kanban Board P2](assets/kanban.png)
+![Kanban Board P1](assets/kanban_p1.png)
+![Kanban Board P2](assets/kanban_p2.png)
+
+***Figure x**: The Project Kanban board as it is presented in GitHub Projects.  This enabled me to coordinate the tickets (GitHub) across each stage of the development process.*
+
+
 
 ## Ticket Labels
 
