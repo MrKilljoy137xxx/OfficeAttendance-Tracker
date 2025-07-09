@@ -207,11 +207,22 @@ body {
     opacity: 0.85;
 }
 
-/* Style for Office Days card */
-.data-card {
+/* Stack the cards vertically */
+.data-cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
     position: absolute;
     top: 120px;
-    right: 700px;
+    right: 600px;
+}
+
+/* Style for data card */
+.data-card,
+.data-card2 {
+    position: static;
+    top: 120px;
+    right: 50px;
     background: #FFFFFF;
     border: 2px solid #183860;
     border-radius: 10px;
@@ -225,7 +236,9 @@ body {
     padding-top: 12px;
 }
 
-.data-card h2 {
+/* Style for the title inside the data card */
+.data-card h2,
+.data-card2 h2 {
     font-family: Arial, sans-serif;
     font-size: 1.2rem;
     color: #183860;
@@ -233,7 +246,9 @@ body {
     background: transparent;
 }
 
-.office-days-count {
+/* Style for text inside the cards */
+.office-days-count,
+.total-days-count {
     font-size: 2.5rem;
     font-weight: bold;
     color: #183860; /* Office Days number in white */
