@@ -20,6 +20,10 @@ document.getElementById('exportCsvBtn').addEventListener('click', function() {
     const reason = document.getElementById('attendanceReason')?.value || '';
     const access = document.getElementById('accessibilityReason')?.value || '';
     const notify = document.querySelector('input[name="otherConfirmation"]:checked')?.value || '';
+    const officeDays = document.getElementById('officeDaysCount')?.textContent || '0';
+    const totalDays = document.getElementById('totalDaysCount')?.textContent || '0';
+    const attendance = document.getElementById('attendance_calc')?.textContent || '0';
+
 
     // Check if at least one field is filled
     if (!weekBegin && !days && !reason && !access && !notify) {
@@ -29,8 +33,26 @@ document.getElementById('exportCsvBtn').addEventListener('click', function() {
 
     // Prepare CSV content
     const csvRows = [
-        ['Week Beginning', 'Days Attended', 'Reason', 'Accessibility Needs', 'Notify Others'],
-        [weekBegin, days, reason, access, notify]
+        [
+            'Week Beginning',
+            'Days Attended',
+            'Reason',
+            'Accessibility Needs',
+            'Notify Others',
+            'Office Days',
+            'Total Working Days',
+            'Attendance (%)'
+        ],
+        [
+            weekBegin,
+            days,
+            reason,
+            access,
+            notify,
+            officeDays,
+            totalDays,
+            attendance
+        ]
     ];
     const csvContent = csvRows.map(row => row.map(field => `"${field.replace(/"/g, '""')}"`).join(',')).join('\r\n');
 
@@ -62,3 +84,19 @@ updateOfficeDaysCount();
 
 // Total number of working days
 document.getElementById('totalDaysCount').textContent = 5;
+
+// Calculate the percentage of office days attended
+function updateAttendance() {
+    const officeDays = document.querySelectorAll('input[name="days"]:checked').length;
+    const totalDays = 5; // Static for now
+    const attendancePercent = totalDays > 0 ? Math.round((officeDays / totalDays) * 100) : 0;
+    document.getElementById('attendance_calc').textContent = attendancePercent + '%';
+}
+
+// Update attendance whenever office days change
+document.querySelectorAll('input[name="days"]').forEach(cb => {
+    cb.addEventListener('change', updateAttendance);
+});
+
+// Initialize on page load
+updateAttendance();
