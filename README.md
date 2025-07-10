@@ -14,16 +14,18 @@ This app is ideal for:
 * **Senior Civil Servants (SCSs)** who are responsible for monitoring the attendance of their employees and ensuring that they are fulfilling their attendance goals.
 * **Developers** seeking a front-end attendance solution that can be customised. 
 
-## Key Features 🔑
-
-* Real-time check-in/check-out functionality
-* Daily and monthly attendance summaries
-* Exportable data (CSV support)
-* Fully responsive design for desktop
-
 </details>
 
 <details closed><summary>2. User Guide 👥</summary>
+
+## Key Features 🔑
+
+* **Easy Attendance -** Select the days on which you were in the office each week with ease by selecting the corresponding checkboxes.
+* **Reason & Accessibility Input -** Provide the rationale for your attendance and indicate any accessibility requirements in the form.
+* **Attendance Summary Cards -** Visually appealing data panels provide instantaneous access to your attendance percentage, total office days, and total working days.
+* **Target Status Indicator -** Quickly determine whether you are "On target" or "Off target" by examining your attendance percentage.
+* **CSV Export -** Export your attendance data to a CSV file for convenient record-keeping or sharing.
+* **Responsive & Accessible Design -** The application is intended to function seamlessly on a variety of devices and is accessible to all users.
 
 ## Getting Started
 
@@ -43,7 +45,9 @@ Access the Office Attendance Tracker through your web browser.  No installation 
 
 ## How to use the App
 
-![Live walkthrough of Office Attendance Tracker](assets/attendance-walkthrough.gif)
+![Live walkthrough of Office Attendance Tracker](assets/attendance_walkthrough.gif)
+
+***Figure x**: An animated GIF that illustrates the operation of the Office Attendance Tracker.  It also illustrates the functionalities that are involved.*
 
 You will be presented with a form that requires you to input the commencement date of the week and select the days on which you were present at the office.  Fill in the necessary fields to initiate attendance monitoring. 
 
@@ -52,6 +56,21 @@ To comprehend the tracker's operation, consult the walkthrough above.
 </details>
 
 <details closed><summary>3. Developer Guide 🧑‍💻</summary>
+
+## Tech Stack Overview
+
+
+## Installation & Setup
+
+
+## Codebase Structure
+
+
+## API Documentation
+
+
+## Deployment Instructions
+
 
 
 </details>
