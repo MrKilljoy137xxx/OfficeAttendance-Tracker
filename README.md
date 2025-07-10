@@ -195,7 +195,9 @@ The design process will be facilitated by the creation of two empathy maps that 
 
 ## UI Mockups
 
+![Wireframe Design](assets/wireframe_design.png)
 
+I utilised Figma to generate a preliminary wireframe design after collecting my user requirements, as illustrated in my empathy maps and user personas. Prior to investing in full development, Figma wireframes were an essential initial stage in the process of visualising, communicating, and refining the design of my application.
 
 ## Design Rationale
 
