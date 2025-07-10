@@ -43,6 +43,7 @@ Access the Office Attendance Tracker through your web browser.  No installation 
 
 ## How to use the App
 
+![Live walkthrough of Office Attendance Tracker](assets/attendance-walkthrough.gif)
 
 You will be presented with a form that requires you to input the commencement date of the week and select the days on which you were present at the office.  Fill in the necessary fields to initiate attendance monitoring. 
 
