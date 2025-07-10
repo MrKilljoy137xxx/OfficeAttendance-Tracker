@@ -69,15 +69,18 @@ To comprehend the tracker's operation, consult the walkthrough above.
 
 ## Product Design
 
-
+[View Software Designs](https://www.figma.com/design/WJocdnGP8lz0KeOSZz0sVz/Office-Attendance-Tracker-Design-Plans?node-id=0-1&p=f&t=hLfXCABztxU3c7DL-0)
 
 ## Files to run the App
 
-
+* index.html
+* styles.css
+* script.js
 
 ## Files used for Testing
 
-
+* script.test.js
+* package.json
 
 ## Installation & Setup
 
