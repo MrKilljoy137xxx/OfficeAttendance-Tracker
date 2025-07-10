@@ -38,12 +38,15 @@ Access the Office Attendance Tracker through your web browser.  No installation 
 
 ### First-time Setup
 
-
+* Download or clone the project files to your computer if you are operating locally.
+* To initiate the application, navigate to the index.html file in your browser.
 
 ## How to use the App
 
 
+You will be presented with a form that requires you to input the commencement date of the week and select the days on which you were present at the office.  Fill in the necessary fields to initiate attendance monitoring. 
 
+To comprehend the tracker's operation, consult the walkthrough above.
 
 </details>
 
