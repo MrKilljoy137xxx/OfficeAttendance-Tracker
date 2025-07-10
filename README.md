@@ -59,14 +59,44 @@ To comprehend the tracker's operation, consult the walkthrough above.
 
 ## Installation and Setup Instructions
 
-1. **Clone the Repository**
+In order to execute the files successfully, the following are required: npm and node. Adhere to the subsequent procedures: 
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+1. **Check Node.js and npm installation**
+
+```sh
+node -v
+npm -v
+```
+
+If both commands return version numbers, you are prepared to continue.  If not, obtain and install the Node.js package, which includes npm, from the following link: [Node.js download](https://nodejs.org/en)
+
+2. **Clone the Repository**
+
+```sh
+git clone https://github.com/MrKilljoy137xxx/OfficeAttendance-Tracker.git
+cd OfficeAttendance-Tracker
+```
 
 ## Running tests
 
+3. **Install Dependencies (for Testing)**
 
+To execute tests, install the necessary package:
+
+```sh
+npm install
+```
+
+4. **Run the Application**
+
+* Utilise your preferred web browser to access the index.html file.
+* The application is purely client-side; no server configuration is necessary.
+
+5. **Run Tests**
+
+```sh
+npm test
+```
 
 ## Tech Stack Overview
 
