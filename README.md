@@ -65,7 +65,7 @@ To comprehend the tracker's operation, consult the walkthrough above.
 
 ## Project Management
 
-[Kanban Board](https://github.com/izia/officeattendance-tracker/projects)
+[View Kanban Board](https://github.com/users/MrKilljoy137xxx/projects/7)
 
 ## Product Design
 
