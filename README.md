@@ -25,6 +25,18 @@ This app is ideal for:
 
 <details closed><summary>2. User Guide 👥</summary>
 
+## Getting Started
+
+
+## How to use the App
+
+
+## Walkthrough
+
+
+## FAQs and Troubleshooting
+
+
 
 </details>
 
