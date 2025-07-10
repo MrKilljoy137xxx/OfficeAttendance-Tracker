@@ -197,7 +197,13 @@ The design process will be facilitated by the creation of two empathy maps that 
 
 ![Wireframe Design](assets/wireframe_design.png)
 
+***Figure 6**: A wireframe of the Office Attendance tracker in Figma*
+
 I utilised Figma to generate a preliminary wireframe design after collecting my user requirements, as illustrated in my empathy maps and user personas. Prior to investing in full development, Figma wireframes were an essential initial stage in the process of visualising, communicating, and refining the design of my application.
+
+Ultimately, my stakeholders were satisfied with the app's design and subsequently granted authorisation for the complete development of the application.  The only modification they needed was to arrange the selection buttons for the second query horizontally, rather than vertically, in order to conserve space on the page.
+
+![Design Walkthrough](assets/design_walkthrough.gif)
 
 ## Design Rationale
 
