@@ -117,6 +117,31 @@ I then conducted a sprint review, which is a meeting that takes place at the con
 
 <details closed><summary>7. Development Process 🔧 </summary>
 
+### Coding Journey
+
+An interactive and structured coding journey was pursued in the development of the Office Attendance tracker:
+
+* **Initial Setup -** The project commenced with the establishment of the fundamental HTML structure, which ensured semantic markup to promote clarity and accessibility.
+* **Feature Driven Development -** Each feature (including the selection of office days, attendance calculation, and CSV export) was developed incrementally.  In order to facilitate focused development and seamless integration, features were implemented in distinct branches.
+* **Styling and Responsiveness -** A clear, accessible, and responsive interface was generated through the utilisation of CSS.  Flexbox was implemented to control the layout, and colour selections were implemented to enhance accessibility and clarity.
+* **Interactive Functionality -** JavaScript was developed to manage dynamic updates, including the calculation of attendance percentages, the real-time updating of data cards, and the management of the on/off target status.
+* **Accessibility and User Experience -** Accessibility was prioritised by employing appropriate labels and colour contrast throughout the journey. In order to enhance the interface and interactions, user feedback will be implemented.
+* **Testing and Refinement -** User Acceptance Testing (UAT) is one of the various modes of testing that the application will undergo.  Github issues will be employed to monitor and resolve bugs, and the existing application will be enhanced in accordance with the results of the testing.
+* **Version Control and Colloboration -** Git and Github were employed to facilitate collaborative development and code revision through the use of branches and pull requests for version control.
+
+### Models Followed
+
+The initiative adheres to a separation of concerns model:
+
+* **HTML** for structure
+* **CSS** for presentation
+* **JavaScript** for behaviour
+
+The UI logic is loosely based on the Model-View-Controller (MVC) pattern:
+
+* **Model:** Data (e.g. selected days, attendance percentage)
+* **View:** The interface is rendered using HTML and CSS.
+* **Controller:** User input is processed by JavaScript functions that update the view.
 
 </details>
 
