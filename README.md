@@ -59,6 +59,25 @@ To comprehend the tracker's operation, consult the walkthrough above.
 
 ## Tech Stack Overview
 
+* **Frontend:** HTML, CSS, JavaScript
+* **Testing:** Jest (for unit testing JavaScript functions)
+* **Version Control:** Git & GitHub
+
+## Project Management
+
+
+
+## Product Design
+
+
+
+## Files to run the App
+
+
+
+## Files used for Testing
+
+
 
 ## Installation & Setup
 
