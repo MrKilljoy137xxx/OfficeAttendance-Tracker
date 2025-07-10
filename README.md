@@ -127,9 +127,6 @@ npm test
 * script.test.js
 * package.json
 
-## Installation & Setup
-
-
 ## Codebase Structure
 
 ```
@@ -205,7 +202,9 @@ Ultimately, my stakeholders were satisfied with the app's design and subsequentl
 
 ![Design Walkthrough](assets/design_walkthrough.gif)
 
-## Design Rationale
+***Figure 7**: This is a live wireframe walkthrough that was conducted on Figma.*
+
+The wireframe designs will be enhanced with each iteration cycle as a result of additional feedback from the stakeholders.
 
 </details>
 
