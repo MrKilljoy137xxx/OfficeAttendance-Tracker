@@ -151,15 +151,9 @@ This application is a static web application that can be deployed on any static 
 3. Select the root (**/**) folder and the branch (typically **main**) under **"Source"**
 4. **Save**. Your site will be available at `https://your-username.github.io/your-repo-name/`.
 
-
 </details>
 
-<details closed><summary>4. Feature Documentation 🔍 </summary>
-
-
-</details>
-
-<details closed><summary>5. Software Design 🎨 </summary>
+<details closed><summary>4. Software Design 🎨 </summary>
 
 ## Design Principles
 
@@ -190,11 +184,12 @@ The design process will be facilitated by the creation of two empathy maps that 
 ## UI Mockups
 
 
+
 ## Design Rationale
 
 </details>
 
-<details closed><summary>6. Project Planning📝</summary>
+<details closed><summary>5. Project Planning📝</summary>
 
 ## Methodology
 
@@ -236,7 +231,7 @@ I then conducted a sprint review, which is a meeting that takes place at the con
 
 </details>
 
-<details closed><summary>7. Development Process 🔧 </summary>
+<details closed><summary>6. Development Process 🔧 </summary>
 
 ### Coding Journey
 
@@ -266,27 +261,18 @@ The UI logic is loosely based on the Model-View-Controller (MVC) pattern:
 
 </details>
 
-<details closed><summary>8. Testing 🧪 </summary>
+<details closed><summary>7. Testing 🧪 </summary>
 
 
 </details>
 
-<details closed><summary>9. Future Developments 🔭 </summary>
+<details closed><summary>8. Future Developments 🔭 </summary>
 
 
 </details>
  
 
-<details closed><summary>10. Evaluation 📊 </summary>
+<details closed><summary>9. Evaluation 📊 </summary>
 
 
 </details>
-
-
-
-
-
-
-
-
-
