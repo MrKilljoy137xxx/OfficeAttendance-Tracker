@@ -103,9 +103,9 @@ The kanban has helped by providing:
 
 I worked on this project in sprints, which are a brief, predetermined period of time in agile project management. This is where I was able to devise a specific set of tasks and features that are planned, developed, and reviewed. The sprint has enabled me to focus on the manageable set of tasks required to develop the office attendance tracker, thereby reducing overwhelm and enhancing productivity. Additionally, I will have the opportunity to evaluate the successes and failures of each iteration, thereby enhancing the quality of my product and process over time.
 
-(Discuss about branches)
+I sequentially developed the features through branches throughout the development process. They were utilised to isolate features and were distinct development paths within a Git repository. This enabled me to guarantee that the new features or problem fixes were developed in their own branch, thereby maintaining the stability of the main code base. I ensured that my pull request was designated to the appropriate ticket by adhering to the general naming conventions for the branches. For example, the title of each feature that was created was "feature/feature-name," and the title of each defect issue was "bug/bug-fix-name." This facilitated code reviews with my team and ensured improved organisation of my developments.
 
-(Discuss what happens after sprint review)
+I then conducted a sprint review, which is a meeting that takes place at the conclusion of each sprint in Agile development. During this meeting, I was able to showcase my developed product, collect feedback from stakeholders, and discuss what went well and what could be improved. I was able to compile my stakeholder feedback from the meeting and convert it into technical requirements, which were subsequently incorporated into the Backlog.  The Product Lead will review the tickets in the Backlog to ascertain the potential work for the next sprint, taking into account priorities and urgency.
 
 ## Ticket Labels
 
