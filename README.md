@@ -87,12 +87,28 @@ To comprehend the tracker's operation, consult the walkthrough above.
 
 ## Codebase Structure
 
-
-## API Documentation
-
+```
+/
+├── index.html          # Main HTML file
+├── styles.css          # CSS styles
+├── script.js           # Main JavaScript logic
+├── script.test.js      # Jest unit tests
+├── assets/             # Images and other static assets
+└── README.md           # Project documentation
+```
 
 ## Deployment Instructions
 
+### Static Hosting (Recommended)
+
+This application is a static web application that can be deployed on any static hosting service, such as GitHub Pages, that supports HTML, CSS, and JavaScript.
+
+### Deploying to GitHub Pages
+
+1. Push your project to a GitHub repository.
+2. Access your repository's **Settings** and then navigate to the **Pages** section.
+3. Select the root (**/**) folder and the branch (typically **main**) under **"Source"**
+4. **Save**. Your site will be available at `https://your-username.github.io/your-repo-name/`.
 
 
 </details>
