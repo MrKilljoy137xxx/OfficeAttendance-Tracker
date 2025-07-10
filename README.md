@@ -57,6 +57,17 @@ To comprehend the tracker's operation, consult the walkthrough above.
 
 <details closed><summary>3. Developer Guide 🧑‍💻</summary>
 
+## Installation and Setup Instructions
+
+1. **Clone the Repository**
+
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+## Running tests
+
+
+
 ## Tech Stack Overview
 
 * **Frontend:** HTML, CSS, JavaScript
