@@ -6,6 +6,10 @@ Code & Documentation for SE Summative One: **Office Attendance Tracker**. Create
 
 ## Overview
 
+![App Layout](assets/app_layout.gif)
+
+***Figure 1**: The most recent version of the application's layout is represented here.*
+
 **Office Attendance Tracker** is a web-based application that is lightweight and intended to simplify the administration of employee attendance.  HTML, CSS, and JavaScript are implemented to construct the application.  The application enables users to sign in and out, view attendance history, and generate reports from a clean, responsive interface.
 
 This app is ideal for: 
@@ -173,13 +177,21 @@ Two distinct categories of users have been considered through the use of user pe
 
 ![User Personas SCS](assets/SCS.png)
 
+***Figure 2**: The User Persona of a SCS.*
+
 ![User_Persona_DfE](assets/dfe_colleague.png)
+
+***Figure 3**: The User Persona of a normal DfE Colleague.*
 
 The design process will be facilitated by the creation of two empathy maps that pertain to both colleagues.  An **empathy map** is a collaborative visualisation tool that is employed to express the thoughts, emotions, words, and actions of a user in relation to the Office Attendance Tracker product.  This will facilitate the development of a more profound shared comprehension of their users among myself and my team.
 
 ![Empaythy Map SCS](assets/scs_empathy_map.png)
 
+***Figure 4**: The empathy map of an SCS.*
+
 ![Empathy Map DfE](assets/dfe_empathy_map.png)
+
+***Figure 5**: The Empathy Map of a normal DfE colleague.*
 
 ## UI Mockups
 
