@@ -35,7 +35,7 @@ This app is ideal for:
 
 ### Accessing the App
 
-Access the Office Attendance Tracker through your web browser.  No installation is necessary; simply access the URL provided or view the index.html file locally.Access the Office Attendance Tracker through your web browser.  No installation is necessary; simply access the URL provided or view the [index.html](index.html) file locally.
+Access the Office Attendance Tracker through your web browser.  No installation is necessary; simply access the URL provided or view the index.html file locally. Access the Office Attendance Tracker through your web browser. No installation is necessary; simply access the URL provided or view the [index.html](index.html) file locally.
 
 ### System Requirements
 
