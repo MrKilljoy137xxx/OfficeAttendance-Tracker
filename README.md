@@ -226,7 +226,7 @@ This is how I applied Agile to my workflow:
 
 ![Kanban Board P1](assets/kanban_p1.png)
 
-***Figure x**: The Project Kanban board as it is presented in GitHub Projects.  This enabled me to coordinate the tickets (GitHub) across each stage of the development process.*
+***Figure 8**: The Project Kanban board as it is presented in GitHub Projects.  This enabled me to coordinate the tickets (GitHub) across each stage of the development process.*
 
 I have utilised a Kanban board through GitHub Projects and have compiled a list of all available assignments for Sprint 1.1.  This facilitated the visual organisation and management of all my responsibilities during the software development lifecycle.  The board was organised into the following columns: **Backlog**, **Ready**, **In progress**, **In review**, **Developed**, **Testing**, and **Completed**.  GitHub issues were used to represent each task, feature, and bug, which were relocated across these columns as my work progressed.
 
@@ -246,7 +246,7 @@ I then conducted a sprint review, which is a meeting that takes place at the con
 
 ![Ticket Labels](assets/ticket_labels.png)
 
-***Figure x**: This displays the labels that were employed to organise the tickets.*
+***Figure 9**: This displays the labels that were employed to organise the tickets.*
 
 </details>
 
@@ -291,14 +291,14 @@ I will initially develop a test that defines a desired function or feature, exec
 ![Failed Unit Code](assets/failed_unittest.png)
 ![Failed Output](assets/failed_output.png)
 
-***Figure x**: The output of a unit test that failed is illustrated in this example. The expected value for the date selection does not correspond with the actual value, resulting in the failure of this unit test.*
+***Figure 10**: The output of a unit test that failed is illustrated in this example. The expected value for the date selection does not correspond with the actual value, resulting in the failure of this unit test.*
 
 **Code needed to pass the test**
 
 ![Passed Unit Code](assets/passed_unittest.png)
 ![Passed Output](assets/passed_output.png)
 
-***Figure x**: The weekday selection is now functioning as intended, as evidenced by the passed unit test in the output.*
+***Figure 11**: The weekday selection is now functioning as intended, as evidenced by the passed unit test in the output.*
 
 I initially tested the weekday selection function and subsequently conducted unit tests on the remaining functions. This approach enabled me to identify defects at an early stage and maintain the robustness, accuracy, and extensibility of my tracker.
 
@@ -308,7 +308,7 @@ Lighthouse is an automated application that is open-source and was created by Go
 
 ![Lighthout Output](assets/lighthouse_results.png)
 
-***Figure x**: The Office Attendance Tracker's Google Lighthouse results are illustrated in the figure.*
+***Figure 12**: The Office Attendance Tracker's Google Lighthouse results are illustrated in the figure.*
 
 ### Performance
 
