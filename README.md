@@ -230,12 +230,6 @@ This is how I applied Agile to my workflow:
 
 I have utilised a Kanban board through GitHub Projects and have compiled a list of all available assignments for Sprint 1.1.  This facilitated the visual organisation and management of all my responsibilities during the software development lifecycle.  The board was organised into the following columns: **Backlog**, **Ready**, **In progress**, **In review**, **Developed**, **Testing**, and **Completed**.  GitHub issues were used to represent each task, feature, and bug, which were relocated across these columns as my work progressed.
 
-The kanban has helped by providing: 
-
-* **Visual Clarity-** This has enabled me and my team to evaluate the priorities and obtain a real-time, comprehensive understanding of the project's status.
-* **Colloboration-** This has facilitated improved communication and coordination among my team members, as I am able to observe the projects we are all working on.
-* **Continuous Delivery-** This has facilitated the iterative, Agile approach that was previously mentioned by enabling the addition and prioritisation of new tasks at any given moment.
-
 I worked on this project in sprints, which are a brief, predetermined period of time in agile project management. This is where I was able to devise a specific set of tasks and features that are planned, developed, and reviewed. The sprint has enabled me to focus on the manageable set of tasks required to develop the office attendance tracker, thereby reducing overwhelm and enhancing productivity. Additionally, I will have the opportunity to evaluate the successes and failures of each iteration, thereby enhancing the quality of my product and process over time.
 
 I sequentially developed the features through branches throughout the development process. They were utilised to isolate features and were distinct development paths within a Git repository. This enabled me to guarantee that the new features or problem fixes were developed in their own branch, thereby maintaining the stability of the main code base. I ensured that my pull request was designated to the appropriate ticket by adhering to the general naming conventions for the branches. For example, the title of each feature that was created was "feature/feature-name," and the title of each defect issue was "bug/bug-fix-name." This facilitated code reviews with my team and ensured improved organisation of my developments.
