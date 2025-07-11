@@ -286,8 +286,11 @@ Test-Driven Development (TDD) is a software development methodology that enables
 
 I will initially develop a test that defines a desired function or feature, execute it to observe its failure, subsequently compose the minimum code required to pass the test, and subsequently refactor as necessary.
 
+First Failing Test:
 
+![Failed Unit Code](assets/ticket_labels.png)
 
+***Figure x**: This displays the labels that were employed to organise the tickets.*
 
 </details>
 
