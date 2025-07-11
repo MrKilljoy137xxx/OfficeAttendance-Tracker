@@ -320,16 +320,7 @@ I will need to consult with the product owner during the upcoming sprint to dete
 
 <details closed><summary>8. Future Developments 🔭 </summary>
 
-## Wishlist features
-
-
-## Enhancements
-
-
-
-## Backlog ideas
-
-
+Please consult the [Kanban Board](https://github.com/users/MrKilljoy137xxx/projects/7), which displays a backlog of ideas that will be executed in subsequent sprints.
 
 </details>
  
