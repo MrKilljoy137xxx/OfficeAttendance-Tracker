@@ -282,6 +282,12 @@ The UI logic is loosely based on the Model-View-Controller (MVC) pattern:
 
 <details closed><summary>7. Testing 🧪 </summary>
 
+Test-Driven Development (TDD) is a software development methodology that enables me to generate automated tests for my code prior to composing the actual implementation. It is crucial for me to incorporate this into the OA tracker, as it will guarantee that the primary features function as intended and prevent the occurrence of bugs.
+
+I will initially develop a test that defines a desired function or feature, execute it to observe its failure, subsequently compose the minimum code required to pass the test, and subsequently refactor as necessary.
+
+
+
 
 </details>
 
