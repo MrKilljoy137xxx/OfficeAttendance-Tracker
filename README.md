@@ -10,7 +10,7 @@ Code & Documentation for SE Summative One: **Office Attendance Tracker**. Create
 
 ***Figure 1**: The most recent version of the application's layout is represented here.*
 
-**Office Attendance Tracker** is a web-based application that is lightweight and intended to simplify the administration of employee attendance.  HTML, CSS, and JavaScript are implemented to construct the application.  The application enables users to sign in and out, view attendance history, and generate reports from a clean, responsive interface.
+**Office Attendance Tracker** is a web-based application that is lightweight and intended to simplify the administration of employee attendance. The application enables users to sign in and out, view attendance history, and generate reports from a clean, responsive interface.
 
 This app is ideal for: 
 
