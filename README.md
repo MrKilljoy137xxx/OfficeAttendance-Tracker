@@ -332,11 +332,27 @@ I will need to consult with the product owner during the upcoming sprint to dete
 
 <details closed><summary>8. Future Developments 🔭 </summary>
 
+## Wishlist features
+
+
+## Enhancements
+
+
+
+## Backlog ideas
+
+
 
 </details>
  
 
 <details closed><summary>9. Evaluation 📊 </summary>
+
+In order to guarantee dependability and functionality, the OA tracker underwent an exhaustive evaluation.  Unit tests were developed for all critical functions and user interface components, such as text inputs, weekday checkboxes, and date selection.
+
+The lighthouse results indicate that the tracker satisfies the majority of functional and accessibility requirements, with a performance score of 100 and an accessibility score of 92.  Consequently, accessibility can be enhanced through the implementation of minor enhancements.
+
+As a result, in order to enhance the tracker, user feedback is necessary. This will enable me to identify additional requirements and ensure that they are translated into tickets that can be implemented during the subsequent iteration cycle. Additionally, accessibility should be taken into account from the outset to guarantee that the requirements of the majority of users are satisfied.
 
 
 </details>
