@@ -298,7 +298,25 @@ I will initially develop a test that defines a desired function or feature, exec
 ![Passed Unit Code](assets/passed_unittest.png)
 ![Passed Output](assets/passed_output.png)
 
-***Figure x**: The output of a unit test that failed is illustrated in this example. The expected value for the date selection does not correspond with the actual value, resulting in the failure of this unit test.*
+***Figure x**: The weekday selection is now functioning as intended, as evidenced by the passed unit test in the output.*
+
+I initially tested the weekday selection function and subsequently conducted unit tests on the remaining functions. This approach enabled me to identify defects at an early stage and maintain the robustness, accuracy, and extensibility of my tracker.
+
+## Accessibility Testing
+
+Lighthouse is an automated application that is open-source and was created by Google to evaluate the quality of web pages.  It evaluates the performance, accessibility, SEO, best practices, and features of Progressive Web Apps.  It is crucial to verify that my website is accessible to users with disabilities, as evidenced by the SCS and a typical DfE colleague who requires accessibility.
+
+![Lighthout Output](assets/lighthouse_results.png)
+
+***Figure x**: The Office Attendance Tracker's Google Lighthouse results are illustrated in the figure.*
+
+
+
+## Testing tools used
+
+* **Jest -** This JavaScript testing framework is widely used and simplifies the process of composing and executing unit tests.
+* **jsdom -** This simulates a browser environment, enabling the testing of DOM interactions in Node.js.
+* **Google Lighthouse -** This is used to test for accessibility in web pages.
 
 </details>
 
