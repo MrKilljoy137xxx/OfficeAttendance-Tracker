@@ -250,7 +250,7 @@ An interactive and structured coding journey was pursued in the development of t
 
 * **Initial Setup -** The project commenced with the establishment of the fundamental HTML structure, which ensured semantic markup to promote clarity and accessibility.
 * **Feature Driven Development -** Each feature (including the selection of office days, attendance calculation, and CSV export) was developed incrementally.  In order to facilitate focused development and seamless integration, features were implemented in distinct branches.
-* **Styling and Responsiveness -** A clear, accessible, and responsive interface was generated through the utilisation of CSS.  Flexbox was implemented to control the layout, and colour selections were implemented to enhance accessibility and clarity.
+* **Styling and Responsiveness -** A clear, accessible, and responsive interface was generated through the utilisation of CSS. 
 * **Interactive Functionality -** JavaScript was developed to manage dynamic updates, including the calculation of attendance percentages, the real-time updating of data cards, and the management of the on/off target status.
 * **Accessibility and User Experience -** Accessibility was prioritised by employing appropriate labels and colour contrast throughout the journey. In order to enhance the interface and interactions, user feedback will be implemented.
 * **Testing and Refinement -** User Acceptance Testing (UAT) is one of the various modes of testing that the application will undergo.  Github issues will be employed to monitor and resolve bugs, and the existing application will be enhanced in accordance with the results of the testing.
