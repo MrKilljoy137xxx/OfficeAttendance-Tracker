@@ -318,7 +318,7 @@ The OA tracker is highly optimised and operates at an exceptional rate, as indic
 
 The OA tracker is highly accessible to the majority of users, as indicated by an accessibility score of 92.  This suggests that the website adheres to the majority of accessibility standards; however, there are a few minor areas that could be enhanced in order to achieve a faultless score.
 
-## What can be improved
+### What can be improved
 
 I will need to consult with the product owner during the upcoming sprint to determine how we can improve the product's accessibility.  This is in the form of a ticket, which will be temporarily stored in the product backlog.
 
