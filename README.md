@@ -322,12 +322,6 @@ The OA tracker is highly accessible to the majority of users, as indicated by an
 
 I will need to consult with the product owner during the upcoming sprint to determine how we can improve the product's accessibility.  This is in the form of a ticket, which will be temporarily stored in the product backlog.
 
-## Testing tools used
-
-* **Jest -** This JavaScript testing framework is widely used and simplifies the process of composing and executing unit tests.
-* **jsdom -** This simulates a browser environment, enabling the testing of DOM interactions in Node.js.
-* **Google Lighthouse -** This is used to test for accessibility in web pages.
-
 </details>
 
 <details closed><summary>8. Future Developments 🔭 </summary>
