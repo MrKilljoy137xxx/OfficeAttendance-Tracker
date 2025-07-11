@@ -51,7 +51,7 @@ Access the Office Attendance Tracker through your web browser.  No installation 
 
 ![Live walkthrough of Office Attendance Tracker](assets/attendance_walkthrough.gif)
 
-***Figure x**: An animated GIF that illustrates the operation of the Office Attendance Tracker.  It also illustrates the functionalities that are involved.*
+***Figure 2**: An animated GIF that illustrates the operation of the Office Attendance Tracker.  It also illustrates the functionalities that are involved.*
 
 You will be presented with a form that requires you to input the commencement date of the week and select the days on which you were present at the office.  Fill in the necessary fields to initiate attendance monitoring. 
 
@@ -172,27 +172,27 @@ I was required to consider the application of deliberate design principles befor
 
 ![User Personas SCS](assets/SCS.png)
 
-***Figure 2**: The User Persona of a SCS.*
+***Figure 3**: The User Persona of a SCS.*
 
 ![User_Persona_DfE](assets/dfe_colleague.png)
 
-***Figure 3**: The User Persona of a normal DfE Colleague.*
+***Figure 4**: The User Persona of a normal DfE Colleague.*
 
 By developing two **empathy maps** for colleagues, a collaborative visualisation tool that conveys user thoughts, emotions, words, and actions, the design process will be enhanced, thereby promoting a more profound comprehension among team members.
 
 ![Empaythy Map SCS](assets/scs_empathy_map.png)
 
-***Figure 4**: The empathy map of an SCS.*
+***Figure 5**: The empathy map of an SCS.*
 
 ![Empathy Map DfE](assets/dfe_empathy_map.png)
 
-***Figure 5**: The Empathy Map of a normal DfE colleague.*
+***Figure 6**: The Empathy Map of a normal DfE colleague.*
 
 ## UI Mockups
 
 ![Wireframe Design](assets/wireframe_design.png)
 
-***Figure 6**: A wireframe of the Office Attendance tracker in Figma*
+***Figure 7**: A wireframe of the Office Attendance tracker in Figma*
 
 I utilised Figma to generate a preliminary wireframe design after collecting my user requirements, as illustrated in my empathy maps and user personas. Prior to investing in full development, Figma wireframes were an essential initial stage in the process of visualising, communicating, and refining the design of my application.
 
@@ -200,7 +200,7 @@ Ultimately, my stakeholders were satisfied with the app's design and subsequentl
 
 ![Design Walkthrough](assets/design_walkthrough.gif)
 
-***Figure 7**: This is a live wireframe walkthrough that was conducted on Figma.*
+***Figure 8**: This is a live wireframe walkthrough that was conducted on Figma.*
 
 The wireframe designs will be enhanced with each iteration cycle as a result of additional feedback from the stakeholders.
 
@@ -224,7 +224,7 @@ This is how I applied Agile to my workflow:
 
 ![Kanban Board P1](assets/kanban_p1.png)
 
-***Figure 8**: The Project Kanban board as it is presented in GitHub Projects.  This enabled me to coordinate the tickets (GitHub) across each stage of the development process.*
+***Figure 9**: The Project Kanban board as it is presented in GitHub Projects.  This enabled me to coordinate the tickets (GitHub) across each stage of the development process.*
 
 I have utilised a Kanban board through GitHub Projects and have compiled a list of all available assignments for Sprint 1.1. This facilitated the visual organisation and management of all my responsibilities during the software development lifecycle. The board was organised into the following columns: Backlog, Ready, In progress, In review, Developed, Testing, and Completed. GitHub issues were used to represent each task, feature, and bug, which were relocated across these columns as my work progressed.
 
@@ -238,7 +238,7 @@ I conducted a sprint review at the end of each Agile development sprint, showcas
 
 ![Ticket Labels](assets/ticket_labels.png)
 
-***Figure 9**: This displays the labels that were employed to organise the tickets.*
+***Figure 10**: This displays the labels that were employed to organise the tickets.*
 
 </details>
 
@@ -283,14 +283,14 @@ I will initially develop a test that defines a desired function or feature, exec
 ![Failed Unit Code](assets/failed_unittest.png)
 ![Failed Output](assets/failed_output.png)
 
-***Figure 10**: The output of a unit test that failed is illustrated in this example. The expected value for the date selection does not correspond with the actual value, resulting in the failure of this unit test.*
+***Figure 11**: The output of a unit test that failed is illustrated in this example. The expected value for the date selection does not correspond with the actual value, resulting in the failure of this unit test.*
 
 **Code needed to pass the test**
 
 ![Passed Unit Code](assets/passed_unittest.png)
 ![Passed Output](assets/passed_output.png)
 
-***Figure 11**: The weekday selection is now functioning as intended, as evidenced by the passed unit test in the output.*
+***Figure 12**: The weekday selection is now functioning as intended, as evidenced by the passed unit test in the output.*
 
 I initially tested the weekday selection function and subsequently conducted unit tests on the remaining functions. This approach enabled me to identify defects at an early stage and maintain the robustness, accuracy, and extensibility of my tracker.
 
@@ -300,7 +300,7 @@ Lighthouse is an automated application that is open-source and was created by Go
 
 ![Lighthout Output](assets/lighthouse_results.png)
 
-***Figure 12**: The Office Attendance Tracker's Google Lighthouse results are illustrated in the figure.*
+***Figure 13**: The Office Attendance Tracker's Google Lighthouse results are illustrated in the figure.*
 
 ### Performance
 
