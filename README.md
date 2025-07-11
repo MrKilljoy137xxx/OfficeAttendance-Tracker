@@ -168,9 +168,7 @@ I was required to consider the application of deliberate design principles befor
 
 ## User Personas & Empathy Maps
 
-**User personas** are detailed, fictional representations of the target users of my application.  They will assist me in comprehending the demands, behaviours, objectives, and pain points of my users in order to guarantee that my application is tailored to their specific requirements. They are crucial because they will assist me in designing with empathy, concentrating on the actual requirements of the user rather than making assumptions.  I will be able to create an intuitive user experience by customising the interface and interactions to specific user categories, which will assist me in prioritising features and enhancing the UX.
-
-Two distinct categories of users have been considered through the use of user personas: one who is a SCS and another who is a typical DfE colleague.  The user personas have been used to identify the specific accessibility requirements and pain points of both colleagues.
+**User personas** are fictional representations of target users that aid in the comprehension of their demands, behaviours, objectives, and sore points.  They are essential for the purpose of designing with empathy and concentrating on the actual requirements of the user.  Features can be prioritised and UX can be improved by tailoring interfaces and interactions to specific user categories.  Utilising user personas, two distinct user categories were examined: a SCS user and a typical DfE colleague, with the objective of identifying their accessibility requirements and pain points.
 
 ![User Personas SCS](assets/SCS.png)
 
@@ -180,7 +178,7 @@ Two distinct categories of users have been considered through the use of user pe
 
 ***Figure 3**: The User Persona of a normal DfE Colleague.*
 
-The design process will be facilitated by the creation of two empathy maps that pertain to both colleagues.  An **empathy map** is a collaborative visualisation tool that is employed to express the thoughts, emotions, words, and actions of a user in relation to the Office Attendance Tracker product.  This will facilitate the development of a more profound shared comprehension of their users among myself and my team.
+By developing two **empathy maps** for colleagues, a collaborative visualisation tool that conveys user thoughts, emotions, words, and actions, the design process will be enhanced, thereby promoting a more profound comprehension among team members.
 
 ![Empaythy Map SCS](assets/scs_empathy_map.png)
 
